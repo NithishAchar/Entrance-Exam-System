@@ -1,7 +1,7 @@
 # Entrance-Exam-System
-Built full-stack web app with Flask and Firebase for real-time student registration and barcode scanning.
-Features
-🔐 Secure login system for students
+#Built full-stack web app with Flask and Firebase for real-time student registration and barcode scanning.
+#Features
+#🔐 Secure login system for students
 📝 Dynamic exam generation from Excel sheets
 ⏱️ Timed examination system
 🔒 Anti-cheating measures and full-screen mode
